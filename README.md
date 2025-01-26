@@ -204,5 +204,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**📧 Contact**: [your.email@example.com](mailto:your.email@example.com)  
-**🌐 Project Link**: [https://github.com/yourusername/learning-academy-task-manager](https://github.com/yourusername/learning-academy-task-manager)
+**📧 Contact**: [your.email@example.com](mailto:vishalch0404@gmail.com)  
+**🌐 Project Link**: [https://github.com/yourusername/learning-academy-task-manager](http://learn-academy.infinityfreeapp.com/)
