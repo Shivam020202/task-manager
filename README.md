@@ -1,6 +1,6 @@
 # Learning Academy Task Management System
 
-![Project Banner](https://i.ibb.co/PcqyQ0k/Screenshot-2025-01-26-091208.png) <!-- Replace with actual screenshot -->
+![Project Banner](https://i.ibb.co/PcqyQ0k/Screenshot-2025-01-26-091208.png) 
 
 A full-stack web application for academic project management, implementing secure user authentication, role-based access control, and collaborative task management features.
 
